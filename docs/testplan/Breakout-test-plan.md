@@ -7,7 +7,8 @@
   * [Setup of DUT Switch](#setup-of-dut-switch
   * [Breakout Configuration](#breakout-configuration)
 
- - [Test Cases][#test-cases]
+
+- [Test Cases][#test-cases]
 
 
 ## Overview
